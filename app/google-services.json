@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "377717213036",
+    "firebase_url": "https://encephalon-3dc1d.firebaseio.com",
+    "project_id": "encephalon-3dc1d",
+    "storage_bucket": "encephalon-3dc1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377717213036:android:ed25f7ee7b04a01f",
+        "android_client_info": {
+          "package_name": "com.mehak.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377717213036-j5u2ve611qbpvmj2plthec1ttcgs085g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehak.demo",
+            "certificate_hash": "bed76cb1bfd47f9ea7a7bb0c2150d9745fa28926"
+          }
+        },
+        {
+          "client_id": "377717213036-b8f13oghluokk4bfbe3qh04nms2ng62f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "377717213036-b8f13oghluokk4bfbe3qh04nms2ng62f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTiqgTYe5pBdNpEgyziJPzeNXFaNfU0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377717213036-b8f13oghluokk4bfbe3qh04nms2ng62f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377717213036:android:77c936e03cfb8a7f",
+        "android_client_info": {
+          "package_name": "com.mehak.encfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377717213036-sl1vgqpsb1s8pch2bpc1ln9sve3k8n31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehak.encfirebase",
+            "certificate_hash": "bed76cb1bfd47f9ea7a7bb0c2150d9745fa28926"
+          }
+        },
+        {
+          "client_id": "377717213036-b8f13oghluokk4bfbe3qh04nms2ng62f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "377717213036-b8f13oghluokk4bfbe3qh04nms2ng62f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTiqgTYe5pBdNpEgyziJPzeNXFaNfU0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377717213036-b8f13oghluokk4bfbe3qh04nms2ng62f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
