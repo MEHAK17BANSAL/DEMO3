@@ -34,6 +34,7 @@ public class CustomeListAdapter extends ArrayAdapter<Product> {
             LayoutInflater layoutInflater = (LayoutInflater) getContext().getSystemService(Activity.LAYOUT_INFLATER_SERVICE);
             convertView=layoutInflater.inflate(R.layout.custom_list_layout,null,true);
         }
+
         Product product=getItem(position);
         ImageView imageView= convertView.findViewById(R.id.imageViewProduct);
       //  Picasso.setSingletonInstance(context).load(product.getImage()).into(imageView);
